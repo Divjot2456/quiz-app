@@ -1,0 +1,25 @@
+#home {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  margin-bottom: 40px;
+}
+
+.play-button-container {
+  width: 100%;
+}
+
+a.play-button {
+  color: white;
+  text-decoration: none;
+  padding: 1rem 5rem;
+  width: 50px;
+  border-radius: 30px;
+  background-color: #57b846;
+}
+
+
+

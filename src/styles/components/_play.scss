@@ -1,0 +1,51 @@
+.questions {
+  text-align: center;
+}
+
+.option {
+  background-color: yellow;
+  width: 200px;
+  margin: 10px auto;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+.button-container button {
+  padding: 10px;
+  margin: 5px;
+  background-color: blue;
+  color: white;
+  border-radius: 30px;
+  width: 75px;
+}
+
+.question {
+  color: white;
+  background-color: purple;
+  font-size: 20px;
+  padding: 10px;
+  margin: 5px auto;
+  border-radius: 30px;
+  width: 220px;
+}
+
+.correct {
+  background-color: green;
+  color: white;
+  width: 200px;
+  margin: 10px auto;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+.wrong {
+  background-color: red;
+  color: white;
+  width: 200px;
+  margin: 10px auto;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 30px;
+}

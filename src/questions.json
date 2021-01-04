@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Google was founded in which year?",
+    "optionA": "1996",
+    "optionB": "1997",
+    "optionC": "1998",
+    "optionD": "1999",
+    "optionE": "2000",
+    "answer": "1998"
+  },
+  {
+    "question": "Who wrote Julius Caeser, Macbeth and Hamlet?",
+    "optionA": "Wole Soyinka",
+    "optionB": "William Shakespeare",
+    "optionC": "Ngozi Chimamanda Adichie",
+    "optionD": "Dan Brown",
+    "optionE": "Aghatha Cristine",
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "Which is the only mammal that cant jump?",
+    "optionA": "Dog",
+    "optionB": "Lion",
+    "optionC": "Wolf",
+    "optionD": "Elephant",
+    "optionE": "Goat",
+    "answer": "Elephant"
+  },
+  {
+    "question": "Who lives at 221B, Baker Street, London?",
+    "optionA": "Tony Stark",
+    "optionB": "Morgan Freeman",
+    "optionC": "Sherlock Holmes",
+    "optionD": "Samuel L. Jackson",
+    "optionE": "Leonardo DiCaprio",
+    "answer": "Sherlock Holmes"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "optionA": "Vincent Van Gogh",
+    "optionB": "Leonardo Da Vinci",
+    "optionC": "Pablo Picasso",
+    "optionD": "Rembrandt",
+    "optionE": "Claude Monet",
+    "answer": "Leonardo Da Vinci"
+  }
+]
